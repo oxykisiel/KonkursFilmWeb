@@ -8,7 +8,7 @@ from urllib.parse import quote_plus, urljoin
 from datetime import datetime, timedelta
 import argparse, csv, os, re, time
 
-EMAIL = "oxykisiel@gmail.com"
+EMAIL = "mail"
 USER_DATA_DIR = "pw_user_filmweb"
 LOG_CSV = "filmweb_agent_log.csv"
 
